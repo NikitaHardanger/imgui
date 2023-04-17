@@ -8,9 +8,7 @@ imgui.ini
 bin/
 bin-int/
 
-##
-Visual Studio files an folder
-
+## Visual Studio files an folder
 *.vcxproj*
 *.sln
 
