@@ -4,6 +4,16 @@
 ## Dear ImGui artifacts
 imgui.ini
 
+## HoneyPie
+bin/
+bin-int/
+
+##
+Visual Studio files an folder
+
+*.vcxproj*
+*.sln
+
 ## General build artifacts
 *.o
 *.obj
